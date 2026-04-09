@@ -1,11 +1,12 @@
 # SafeDrive Ride-Hailing Analysis – Lagos, Nigeria
 
 **End-to-End Exploratory Data Analysis (EDA)**
+
 A comprehensive analysis of ride-hailing operations in Lagos using a realistic synthetic dataset for SafeDrive — a fictional, driver-friendly ride-hailing app.
 
 ### Project Overview
 **Objective**: Understand fare structure, driver profitability, operational challenges, and key factors affecting ride-hailing in Lagos (congestion, island premium, weather, time of day).
-**Dataset**: 100 synthetic rides with verified Lagos distances, current fuel price (₦820 per liter), Toyota Corolla efficiency (12 km/l), 15% platform commission, and realistic congestion & weather effects.
+**Dataset**: 100 synthetic rides with verified Lagos distances, fuel price at Feb 2026 (₦820 per liter), Toyota Corolla efficiency (12 km/l), 15% platform commission, and realistic congestion & weather effects.
 **Key Focus Areas**: Pricing dynamics, driver net earnings after fuel & commission, time-based patterns, and island vs mainland differences.
 
 ### Key Insights
